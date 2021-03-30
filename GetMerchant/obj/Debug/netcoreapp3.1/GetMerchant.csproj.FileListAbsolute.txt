@@ -1,0 +1,9 @@
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.csprojAssemblyReference.cache
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.AssemblyInfoInputs.cache
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.AssemblyInfo.cs
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.csproj.CoreCompileInputs.cache
+D:\Visual studio project\GetMerchantService\GetMerchant\bin\Debug\netcoreapp3.1\GetMerchant.deps.json
+D:\Visual studio project\GetMerchantService\GetMerchant\bin\Debug\netcoreapp3.1\GetMerchant.dll
+D:\Visual studio project\GetMerchantService\GetMerchant\bin\Debug\netcoreapp3.1\GetMerchant.pdb
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.dll
+D:\Visual studio project\GetMerchantService\GetMerchant\obj\Debug\netcoreapp3.1\GetMerchant.pdb

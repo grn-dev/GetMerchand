@@ -1,0 +1,17 @@
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.csprojAssemblyReference.cache
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.AssemblyInfoInputs.cache
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.AssemblyInfo.cs
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.csproj.CoreCompileInputs.cache
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.exe
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.deps.json
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.runtimeconfig.json
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.runtimeconfig.dev.json
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.dll
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\call.pdb
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\GetMerchant.dll
+D:\Visual studio project\GetMerchantService\call\bin\Debug\netcoreapp3.1\GetMerchant.pdb
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.csproj.CopyComplete
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.dll
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.pdb
+D:\Visual studio project\GetMerchantService\call\obj\Debug\netcoreapp3.1\call.genruntimeconfig.cache

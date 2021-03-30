@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWXjII0yFW9F+WVz2Y4GN+vFwk8TXtInYiS+ZO2mCV03MzWmJmAtncn6U7fznMus+Oy9Q2xMRr8phoRAzNVkxg==",
+  "success": true,
+  "projectFilePath": "D:\\Visual studio project\\GetMerchantService\\call\\call.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sabzali\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
