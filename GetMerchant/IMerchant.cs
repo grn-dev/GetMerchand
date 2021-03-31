@@ -9,6 +9,6 @@ namespace GetMerchant
 
         Task<ReadRequestCartableResponse> ReadRequestCartable(ShaparakReadRequest model);
 
-        //Task<ShaparakWriteResponse> WriteExternalRequest(ShaparakWriteRequest model);
+        Task<ShaparakWriteResponse> WriteExternalRequest(ShaparakWriteRequest model);
     }
 }

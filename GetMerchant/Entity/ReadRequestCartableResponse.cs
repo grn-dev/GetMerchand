@@ -45,7 +45,7 @@ namespace GetMerchant.Entity
         [JsonProperty("requestDetails")]
         public object Details { get; set; }
 
-        //public string ToJson() => this.SerializeToString();
+        
 
     }
 }

@@ -6,13 +6,15 @@ namespace GetMerchant.Entity
 {
     public class ShaparakMerchantIbanInfo
     {
-         
-        [JsonProperty("merchantIban")]
+        
+       [JsonProperty("merchantIban")]
+        [Required, Description("شماره شبا"),MaxLength(34),MinLength(26)]
         public string Iban { get; set; }
 
-        [Required, Description("عنوان شبا")]
-        public string Description { get; set; }
 
-        //public string ToJson() => this.SerializeToString();
+        [JsonProperty("description")]
+        [Required, Description("عنوان شبا"), MaxLength(255), MinLength(1)]
+        public string Description { get; set; } 
+
     }
 }

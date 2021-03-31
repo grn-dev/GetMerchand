@@ -25,7 +25,7 @@ namespace GetMerchant.Entity
         public List<ShaparakRelatedMerchant> RelatedMerchants { get; set; }
 
          
-        [JsonProperty("Contract")]
+        [JsonProperty("contract")]
         public ShaparakContractInfo Contract { get; set; }
 
          
@@ -35,7 +35,6 @@ namespace GetMerchant.Entity
           
         [JsonProperty("Description")]
         public string Description { get; set; }
-
-        //public string ToJson() => this.SerializeToString();
+         
     }
 }

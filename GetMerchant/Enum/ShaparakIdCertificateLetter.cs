@@ -1,12 +1,14 @@
 ﻿using System.ComponentModel;
 
-namespace GetMerchant.Enums {
+namespace GetMerchant.Enums
+{
 
     /// <summary>
     /// مجموعه سری حرفی شناسنامه
     /// </summary>
-    public enum ShaparakIdCertificateLetter {
-        
+    public enum ShaparakIdCertificateLetter
+    {
+
         [Description("الف")]
         Alef = 0,
 
@@ -21,26 +23,29 @@ namespace GetMerchant.Enums {
 
         [Description("ر")]
         R = 4,
-        
+
         [Description("1")]
         _1 = 5,
-        
+
         [Description("2")]
         _2 = 6,
-        
+
         [Description("3")]
         _3 = 7,
-        
+
         [Description("4")]
         _4 = 8,
-        
+
         [Description("9")]
         _9 = 9,
-        
+
         [Description("10")]
         _10 = 10,
-        
+
         [Description("11")]
-        _11 = 11
+        _11 = 11,
+
+        [Description("12")]
+        SH = 11
     }
 }
