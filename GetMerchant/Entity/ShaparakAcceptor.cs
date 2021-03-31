@@ -43,6 +43,7 @@ namespace GetMerchant.Entity
 
      
         [Required ]
+        [JsonProperty("settledSeparately")] 
         public bool SettledSeparately { get; set; }
 
         
@@ -108,9 +109,8 @@ namespace GetMerchant.Entity
         public string Description { get; set; }
 
       
-        [JsonProperty("updateAction")]
-        public ShaparakUpdateAction? UpdateAction { get; set; }
-
-        //public string ToJson() => this.SerializeToString();
+        //[JsonProperty("updateAction")]
+        //public ShaparakUpdateAction? UpdateAction { get; set; }
+         
     }
 }
