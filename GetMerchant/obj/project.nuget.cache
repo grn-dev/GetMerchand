@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJot/T/nSdCfPUsYRcPyno46x913qdNOjuMxE9H0+ROdaiz4YXlANLePiZ8TkkrelHpfhfNKtOia+gxfJUpz5A==",
+  "dgSpecHash": "dxelrFcPnVRs8zvyPkKKkR/WL5PAdlrkaNv+crgFyiLhQOAwOrvnfI3dvUlxjYEOmeRPvKTby9c2DzStY7Rgow==",
   "success": true,
-  "projectFilePath": "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\GetMerchant.csproj",
+  "projectFilePath": "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\GetMerchant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sabzali\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\GetMerchant.csproj": {}
+    "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\GetMerchant.csproj": {}
   },
   "projects": {
-    "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\GetMerchant.csproj": {
+    "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\GetMerchant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\GetMerchant.csproj",
+        "projectUniqueName": "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\GetMerchant.csproj",
         "projectName": "GetMerchant",
-        "projectPath": "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\GetMerchant.csproj",
+        "projectPath": "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\GetMerchant.csproj",
         "packagesPath": "C:\\Users\\Sabzali\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual studio project\\GetMerchantService\\GetMerchant\\obj\\",
+        "outputPath": "D:\\Git myproject\\TejaratFirst\\GetMerchand\\GetMerchand\\GetMerchant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
