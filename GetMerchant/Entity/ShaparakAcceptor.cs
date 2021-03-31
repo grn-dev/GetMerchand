@@ -109,8 +109,9 @@ namespace GetMerchant.Entity
         public string Description { get; set; }
 
       
-        //[JsonProperty("updateAction")]
-        //public ShaparakUpdateAction? UpdateAction { get; set; }
-         
+        [JsonProperty("updateAction")]
+        public ShaparakUpdateAction? UpdateAction { get; set; }
+
+        //public string ToJson() => this.SerializeToString();
     }
 }

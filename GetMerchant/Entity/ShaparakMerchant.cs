@@ -163,9 +163,9 @@ namespace GetMerchant.Entity
         [JsonProperty("merchantOfficers")]
         public List<ShaparakMerchantOfficer> Officers { get; set; }
 
-         
-        //[JsonProperty("updateAction")]
-        //public ShaparakUpdateAction? UpdateAction { get; set; }
+
+        [JsonProperty("updateAction")]
+        public ShaparakUpdateAction? UpdateAction { get; set; }
 
         //public string ToJson() => this.SerializeToString();
     }

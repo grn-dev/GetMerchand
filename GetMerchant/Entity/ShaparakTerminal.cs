@@ -66,7 +66,7 @@ namespace GetMerchant.Entity
 
          
         [JsonProperty("updateAction")]
-        public ShaparakUpdateAction? UpdateAction { get; set; }
+        public ShaparakUpdateAction? UpdateAction { get; set; }//هنگتتام ثبتتت درخواستتتتت اصتتتلاح اطلاعتتات
 
     }
 }
